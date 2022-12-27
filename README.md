@@ -17,6 +17,7 @@ The objective of the project is expose how to implement a basic web application 
 <h2>How to run</h2>
 <ul>
     <li>First download the project open the PGAdmin and create a database with the name 'db_fai_lds', copy and run the script fai-lds-db.sql</li>
+    <li>Change the password and login at db.connection same as your PgAdmin, so the application can open and close connections to your database.</li>
     <li>Execute the lds-api and lds-client projects together.</li>
     <li>Open your browser and type localhost:8080 </li>
     <li>The login is admin and the password is admin.</li>
