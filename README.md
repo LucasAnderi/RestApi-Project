@@ -1,7 +1,7 @@
 <h1> RestApi-Project </h1>
 This project was developed along 2022 , when i started to study the subject of software development at university.
 
-The objective of the project is expose how to implement a basic web application with JAVA, SpringBoot+Thymeleaf and the SGBD used to store the data is PostgreSql.
+The objective of the project is expose how to implement a basic web application with JAVA, SpringBoot+Thymeleaf and PostgreSql.
 
 <h2>Conceived concepts</h2>
 <ul>
