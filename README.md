@@ -9,7 +9,7 @@ The objective of the project is expose how to implement a basic web application 
     <li>Basic concepts of HTML and CSS with bootstrap.</li>
     <li>The basic structure of a RestAPI application and the manipulation of requests and responses using HTTP verbs (put, post, delete and get).</li>
     <li>CRUD operations.</li>
-    <li>Login authentication using Security dependency of Spring boot.</li>
+    <li>Login authentication using Security dependency of Spring boot and JSON web token.</li>
     <li>Jasper Report to generate .pdf reports</li>
     <li>GlobalExceptionHandler to throw any exception for all controllers.</li>
     <li>Unity testing with JUnit</li>
